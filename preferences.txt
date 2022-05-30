@@ -1,0 +1,5 @@
+movie: What we do in the shadows
+show: Rick and Morty
+food: rare steak
+season: winter
+country: Japan
